@@ -19,7 +19,6 @@ To run the project in development mode:
 ```bash
 npm start
 ```
-Then navigate to [http://localhost:1234/index.html](http://localhost:1234/index.html) in a web browser.
 
 To build the project for production:
 ```bash
